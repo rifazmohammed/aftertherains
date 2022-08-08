@@ -1,0 +1,62 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = After the Rains - Rainforest Retreat, Wayanad.
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_5AF07CF8_503E_563D_41CD_BD9D78B97220.label = After the Rains
+album_5AF07CF8_503E_563D_41CD_BD9D78B97220_0.label = aftertherain
+album_5AF07CF8_503E_563D_41CD_BD9D78B97220_1.label = GIRI8117abt
+album_5AF07CF8_503E_563D_41CD_BD9D78B97220_2.label = GIRI8467aaabt-2
+album_5AF07CF8_503E_563D_41CD_BD9D78B97220_3.label = GIRI8629-HDR-2
+album_5AF07CF8_503E_563D_41CD_BD9D78B97220_4.label = GIRI8637abt
+album_5AF07CF8_503E_563D_41CD_BD9D78B97220_5.label = GIRI8647abt
+album_5AF07CF8_503E_563D_41CD_BD9D78B97220_6.label = GIRI8688abt
+panorama_40F39E10_4DBC_D2AF_41CD_AFEC5C19A8AB.label = Villa - Pimienta
+panorama_4226E880_4DA9_CD81_41D3_63B494ECE3BB.label = View from the resort
+panorama_426C830A_4DCD_52B3_41D1_592329EEF81B.label = Butterfly Garden
+panorama_426DD28A_4DCD_D3B3_41D2_13C8FDAC3E93.label = Fishermans Point
+panorama_426DD2AF_4DCD_F3F1_41D0_4B169D791904.label = Stream
+panorama_4314B7E2_4DAF_4381_41D3_263A251CECFC.label = Villa - Pimienta
+panorama_431A8832_4DAF_4C81_41B7_299D6C64272A.label = In & around the resort
+panorama_44098C95_4D99_4583_41C5_4132DD85CD17.label = Reception
+panorama_4409B13B_4D99_5C87_418E_9B815659BBF1.label = View from Lobby
+panorama_4409EEFA_4D99_4581_41D2_08037130F0AB.label = Lobby
+panorama_440B0361_4D98_BC83_41A7_AD51EA1E9FB0.label = Restaurant
+panorama_47EB3460_4D98_C481_41BA_12FE71731D55.label = Entrance
+panorama_5C4FD12A_4DC5_4EF3_41B0_930B303BEC69.label = Feu de Camp
+panorama_5C5A9FBE_4DC3_B1D3_4182_B6DB9F479AB9.label = In & around the resort
+panorama_5D011840_4DA8_CC81_41CA_E9D816EFA6BA.label = In & around the resort
+panorama_5DEE5E75_4DA8_C483_41D0_3C1E2AD7872F.label = Villa - Kokum
+panorama_5DEEDC54_4DA8_C481_41CD_D820DFF5FB51.label = Villa - Pimienta
+panorama_5DEF29FF_4DA8_CF7F_41B3_8F9A84CD029C.label = Villa - Pimienta
+panorama_5DEF60DA_4DA8_BD81_4192_4F7EEFC6A58A.label = Villa - Kokum
+panorama_5DEFB7DD_4DA8_C383_41CE_B3B319319630.label = Villa - Pimienta
+panorama_5DEFE65F_4DA9_44BF_41B1_FB503D0D2D14.label = Villa - Pimienta
+panorama_5EA2237D_4DCC_B151_41CB_B4C642FE5976.label = Villa - Lilikoi
+panorama_5EF8737A_4DCC_D153_41BB_4E7FC95BBFBA.label = Villa - Lilikoi
+panorama_5EF88E33_4DCC_D2D1_418A_DB8CF315FF7D.label = Villa - Lilikoi
+panorama_5EF8E1CE_4DCC_F1B3_41D1_4E83D2201FD4.label = Villa - Lilikoi
+panorama_5EF8EF7B_4DCC_F150_41BB_A5984FFAF384.label = Villa - Lilikoi
+panorama_5F8DF1C4_4DB7_5F81_41C4_7E72B53665D9.label = Villa - Kokum
+panorama_5FA841DE_4DCD_7153_41D3_5C04BC91450F.label = Swimming Pool
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = http://www.aftertherains.in
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = http://www.aftertherains.in
